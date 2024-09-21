@@ -11,11 +11,9 @@
             "id": "e283a1130ca82a35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/markdown-syntax.md",
-                "mode": "source",
-                "source": false
+                "file": "screenshot.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/markdown-syntax.md",
+                "file": "screenshot.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/markdown-syntax.md",
+                "file": "screenshot.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/markdown-syntax.md"
+                "file": "screenshot.png"
               }
             }
           },
@@ -183,15 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02294dc87e20d315",
+  "active": "e283a1130ca82a35",
   "lastOpenFiles": [
+    "content/markdown-syntax.md",
     "static/images/g1nj0L.jpg",
     "static/apple-touch-icon.png",
     "static/icons/g1nj0L.jpg",
     "static/icons/danger.svg",
     "static/icons/abstract.svg",
     "content/pages/_index.md",
-    "content/markdown-syntax.md",
     "content/_index.md",
     "README.md",
     "theme.toml",
@@ -209,7 +207,6 @@
     "static/processed_images/08-example.5c0108fc0d117d1c.jpg",
     "static/processed_images/06-example.c154d01e3ae79960.jpg",
     "static/processed_images/04-gutenberg.faa753e9bf9c7908.jpg",
-    "static/processed_images/05-example.ae15f30d897ab593.jpg",
     "content/pages/projects/index.md",
     "content/shortcodes/index.md",
     "content/pages/archive.md",
