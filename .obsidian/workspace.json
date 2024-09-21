@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e283a1130ca82a35",
+            "id": "543fc1171e9bbef1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "screenshot.png"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshot.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshot.png",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshot.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,8 +183,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e283a1130ca82a35",
+  "active": "543fc1171e9bbef1",
   "lastOpenFiles": [
+    "screenshot.png",
+    "conflict-files-obsidian-git.md",
     "content/markdown-syntax.md",
     "static/images/g1nj0L.jpg",
     "static/apple-touch-icon.png",
@@ -194,7 +198,6 @@
     "README.md",
     "theme.toml",
     "tailwind.config.js",
-    "screenshot.png",
     "pnpm-lock.yaml",
     "package.json",
     "LICENSE",
@@ -227,7 +230,6 @@
     "gg/content/theme-config.md",
     "gg/content/placeholder-5.md",
     "gg/content/placeholder-4.md",
-    "gg/content/placeholder-3.md",
     "unibertsitatea 🫂/tercer/segon quadrimestre/electromagnetisme II/esquema apunts temari.canvas",
     "Sense títol.canvas",
     "unibertsitatea 🫂/tercer/segon quadrimestre/física estadística/esquema temari.canvas",
