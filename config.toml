@@ -76,7 +76,7 @@ bio = "Kita is a clean, elegant and simple blog theme for Zola."
 # The URL of avatar.
 avatar_url = "images/g1nj0L.jpg"
 # Invert color in dark mode.
-avatar_invert = true
+avatar_invert = false
 
 # The social icons below the profile on the home page.
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
