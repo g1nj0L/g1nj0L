@@ -6,10 +6,10 @@ title = "./g1nj0L"
 description = "El meu web personal on vaig penjant coses relacionades amb el que m'agrada :)"
 
 # The default site author.
-author = "b1nj0L"
+author = "g1nj0L"
 
 # The default language; used in feeds.
-default_language = "ca-Es"
+default_language = "es"
 
 # When set to "true", a feed is automatically generated.
 generate_feeds = true
