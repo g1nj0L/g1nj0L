@@ -1,3 +1,3 @@
-# ei! 👋
+# ei! 💗
 
-En procés, properament en les millors llars
+Un estudiant de fisica entre tants. M'agraden moltes coses, entre elles la informatica :)
