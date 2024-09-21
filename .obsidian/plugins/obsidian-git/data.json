@@ -1,6 +1,6 @@
 {
   "commitMessage": "Actualització automàtica {{date}}",
-  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
+  "commitDateFormat": "DD-MM-YYYY",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "gg",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,

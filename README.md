@@ -1,3 +1,3 @@
 # ei! 👋
 
-En procés :D
+En procés, properament en les millors llars
