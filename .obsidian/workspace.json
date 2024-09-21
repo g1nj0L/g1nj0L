@@ -11,11 +11,9 @@
             "id": "e283a1130ca82a35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "static/apple-touch-icon.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "static/apple-touch-icon.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "static/apple-touch-icon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "static/apple-touch-icon.png"
               }
             }
           },
@@ -183,8 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e283a1130ca82a35",
+  "active": "02294dc87e20d315",
   "lastOpenFiles": [
+    "static/icons/g1nj0L.jpg",
+    "static/icons/danger.svg",
+    "static/icons/abstract.svg",
+    "content/pages/_index.md",
+    "content/markdown-syntax.md",
+    "content/_index.md",
     "README.md",
     "theme.toml",
     "tailwind.config.js",
@@ -204,22 +208,17 @@
     "static/processed_images/05-example.ae15f30d897ab593.jpg",
     "static/processed_images/03-zola-cezanne.6a107e2be8013406.png",
     "static/processed_images/01-zola.7c3a26eed1c7ab5f.png",
-    "static/processed_images/02-zola-manet.e4241a911597aca7.png",
-    "static/images/markdown-syntax.png",
     "content/pages/projects/index.md",
     "content/shortcodes/index.md",
-    "content/pages/_index.md",
     "content/pages/archive.md",
     "content/pages/about.md",
     "content/placeholder-4.md",
-    "content/_index.md",
     "content/theme-config.md",
     "content/placeholder-5.md",
     "content/placeholder-2.md",
     "content/placeholder-3.md",
     "content/placeholder-1.md",
     "content/math-typesetting.md",
-    "content/markdown-syntax.md",
     "gg/content/pages/projects/index.md",
     "gg/content/shortcodes/index.md",
     "gg/content/pages/_index.md",
