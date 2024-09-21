@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://g1nj0L.github.io/g1nj0L"
+base_url = "https://g1nj0l.github.io/g1nj0L"
 
 # The site title and description; used in feeds by default.
 title = "Kita"
@@ -74,7 +74,7 @@ social_image = "icons/github.svg"
 name = "Kita - Zola Theme"
 bio = "Kita is a clean, elegant and simple blog theme for Zola."
 # The URL of avatar.
-avatar_url = "icons/g1nj0l.jpg"
+avatar_url = "images/g1nj0l.jpg"
 # Invert color in dark mode.
 avatar_invert = true
 
