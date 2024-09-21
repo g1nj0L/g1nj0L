@@ -74,7 +74,7 @@ social_image = "icons/github.svg"
 name = "Kita - Zola Theme"
 bio = "Kita is a clean, elegant and simple blog theme for Zola."
 # The URL of avatar.
-avatar_url = "images/g1nj0l.jpg"
+avatar_url = "icons/github.svg"
 # Invert color in dark mode.
 avatar_invert = true
 
