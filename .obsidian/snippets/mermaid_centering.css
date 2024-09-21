@@ -1,0 +1,7 @@
+div.mermaid {
+	text-align: center;
+	display: flex !important;
+	justify-content: center;
+	securityLevel: 'sandbox';
+	theme: 'neutral';
+}

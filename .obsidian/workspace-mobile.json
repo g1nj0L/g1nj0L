@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "7a621fa52173afe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb79c7eb76b5674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6403173d194f4817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA/ARTICLES/TICZ SERIES/2. Instal·lació.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a928da8f663fe534",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "090c44cc4f2a673c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a9b54b6285df68ee",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4da1a39dbc066dd9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "afe51e1e76ead392",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "154ee85a0a129eea",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "1e2dedbdb3c8b1cc",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "78788f08295ef303",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "544d9f4d21662ca6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA/ARTICLES/TICZ SERIES/2. Instal·lació.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "86e6ceaad03836aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA/ARTICLES/TICZ SERIES/2. Instal·lació.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6a6a8aa1c328b660",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA/ARTICLES/TICZ SERIES/2. Instal·lació.md"
+          }
+        }
+      },
+      {
+        "id": "b1190534bb7161f5",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "6403173d194f4817",
+  "lastOpenFiles": [
+    "personal ✨/ORGANITZACIÓ DEL FUTUR/Recull idees (sense ordre).md",
+    "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA/informació general.md",
+    "personal ✨/INFORMÀTICA/WEB FÍSISCA-INFORMÀTICA",
+    "web física/informàtica.md",
+    "web física",
+    "personal ✨/ORGANITZACIÓ DEL FUTUR/Què és aquesta carpeta ❓.md",
+    "personal ✨/ORGANITZACIÓ DEL FUTUR/Què fer ❓.md",
+    "personal ✨/ESTIU.md",
+    "personal ✨/ORGANITZACIÓ DEL FUTUR",
+    "personal ✨/IDEES GENERALS/coses a fer quan la vida no m'ofegue.md",
+    "unibersitatea 🫂/sobre l'estabilitat de les taules i cadires.md",
+    "unibersitatea 🫂/NOTES INICIALS.md",
+    "personal ✨/organització general (en procés).md",
+    "personal ✨/COMPRES/sabates.md",
+    "personal ✨/COMPRES/cameres analògiques.md",
+    "personal ✨/LLIBRES/ENQUADERNACIONS.md",
+    "personal ✨/mod g305.md",
+    "personal ✨/idees mems.md",
+    "personal ✨/estudi.md",
+    "dansa 💗/esquema_gdts_turistificacio.canvas",
+    "unibersitatea 🫂/tercer/segon quadrimestre/òptica II/esquema apunts temari.canvas",
+    "unibersitatea 🫂/tercer/segon quadrimestre/quàntica II/Fonaments matemàtics de la Física Quàntica.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/òptica II/TREBALL FINAL.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/electromagnetisme II/idees d'estudi.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/electromagnetisme II/esquema apunts temari.canvas",
+    "dansa 💗/autocrítica.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/física estadística/esquema temari.canvas",
+    "unibersitatea 🫂/tercer/segon quadrimestre/física estadística/idees d'estudi.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/física estadística/notes llibre.md",
+    "unibersitatea 🫂/📍 tasques de la setmana.md",
+    "unibersitatea 🫂/tercer/segon quadrimestre/quàntica II/NOTES DE CLASSE — QUÀNTICAII.md",
+    "unibersitatea 🫂/Com estudiar.md",
+    "gif_base_inf.gif",
+    "articleIV_LAU.png"
+  ]
+}

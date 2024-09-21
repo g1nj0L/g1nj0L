@@ -1,0 +1,154 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Bb0tA-ChZQDUi_CfWSZ98",
+      "name": "rosa pastel",
+      "value": "#fe90c5"
+    },
+    {
+      "id": "-QIWysex7zK8neYnhVVFG",
+      "name": "morat pastel",
+      "value": "#f0b8ff"
+    },
+    {
+      "id": "cq-ej6u9y6tWotbTG7qyM",
+      "name": "blau pastel",
+      "value": "#b8c6ff"
+    },
+    {
+      "id": "OKGx0q5u4skGnagwdeLjX",
+      "name": "turquesa pastel",
+      "value": "#cdf4fe"
+    },
+    {
+      "id": "WKRsB6lbR15HZjWb1Euiw",
+      "name": "verd pastel",
+      "value": "#ccffd5"
+    },
+    {
+      "id": "Rcpw9Fe4oLiLAquJkmyRY",
+      "name": "groc pastel",
+      "value": "#fffac2"
+    },
+    {
+      "id": "RuElijl9nchnf8WjKJeYo",
+      "name": "taronja pastel",
+      "value": "#fed690"
+    },
+    {
+      "id": "EysOZElNDGOLu3lYlKPvm",
+      "name": "roig pastel",
+      "value": "#ffb8b8"
+    },
+    {
+      "id": "e9o49YdeLP_j_LGRI8ld4",
+      "name": "magenta",
+      "value": "#df0c60"
+    },
+    {
+      "id": "1t28ZB-w3r5JmqtTKMtQZ",
+      "name": "vi",
+      "value": "#600a66"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "unibertsitatea 🫂/tercer/primer quadrimestre/electromagnetisme I",
+      "color": "RuElijl9nchnf8WjKJeYo"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/primer quadrimestre/astrofísica",
+      "color": "-QIWysex7zK8neYnhVVFG"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/primer quadrimestre/quàntica I",
+      "color": "Bb0tA-ChZQDUi_CfWSZ98"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/primer quadrimestre/òptica I",
+      "color": "OKGx0q5u4skGnagwdeLjX"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/laboratori d'òptica",
+      "color": "WKRsB6lbR15HZjWb1Euiw"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/laboratori d'electromagnetisme",
+      "color": "Rcpw9Fe4oLiLAquJkmyRY"
+    },
+    {
+      "path": "dansa 💗/📍 tasques de la setmana.md",
+      "color": "e9o49YdeLP_j_LGRI8ld4"
+    },
+    {
+      "path": "unibertsitatea 🫂/📍 tasques de la setmana.md",
+      "color": "e9o49YdeLP_j_LGRI8ld4"
+    },
+    {
+      "path": "dansa 💗/📌 esquema OJS-VLC.md",
+      "color": "EysOZElNDGOLu3lYlKPvm"
+    },
+    {
+      "path": "personal ✨/IDEES GENERALS/coses a fer quan la vida no m'ofegue.md",
+      "color": "e9o49YdeLP_j_LGRI8ld4"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/electromagnetisme II",
+      "color": "RuElijl9nchnf8WjKJeYo"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/òptica II",
+      "color": "WKRsB6lbR15HZjWb1Euiw"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/física estadística",
+      "color": "-QIWysex7zK8neYnhVVFG"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/quàntica II",
+      "color": "Bb0tA-ChZQDUi_CfWSZ98"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/mètodes matemàtics II",
+      "color": "cq-ej6u9y6tWotbTG7qyM"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/òptica II/NOTES DE CLASSE — ÒPTICAII.md",
+      "color": "WKRsB6lbR15HZjWb1Euiw"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/quàntica II/NOTES DE CLASSE — QUÀNTICAII.md",
+      "color": "Bb0tA-ChZQDUi_CfWSZ98"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/mètodes matemàtics II/NOTES DE CLASSE — MM2.md",
+      "color": "cq-ej6u9y6tWotbTG7qyM"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/física estadística/NOTES DE CLASSE — ESTADÍSTICA.md",
+      "color": "-QIWysex7zK8neYnhVVFG"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/segon quadrimestre/electromagnetisme II/NOTES DE CLASSE — ELECTROII.md",
+      "color": "RuElijl9nchnf8WjKJeYo"
+    },
+    {
+      "path": "unibertsitatea 🫂/🔪 totes les tasques per prioritats.md",
+      "color": "cq-ej6u9y6tWotbTG7qyM"
+    },
+    {
+      "path": "unibertsitatea 🫂/🫰🏽 Com estudiar.md",
+      "color": "Bb0tA-ChZQDUi_CfWSZ98"
+    },
+    {
+      "path": "unibertsitatea 🫂/tercer/laboratori de quàntica",
+      "color": "EysOZElNDGOLu3lYlKPvm"
+    },
+    {
+      "path": "personal ✨/ORGANITZACIÓ DEL FUTUR",
+      "color": "Bb0tA-ChZQDUi_CfWSZ98"
+    }
+  ]
+}
