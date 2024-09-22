@@ -106,8 +106,8 @@ name = "etiquetes"
 url = "$BASE_URL/etiquetes"
 
 [[extra.menu]]
-name = "informació"
-url = "$BASE_URL/informacio"
+name = "sobre mi"
+url = "$BASE_URL/sobre-mi"
 
 # The page footer options.
 [extra.footer]

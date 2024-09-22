@@ -1,5 +1,5 @@
 +++
-title = "Projects"
-path = "projects"
+title = "Projectes"
+path = "projectes"
 template = "projects.html"
 +++
