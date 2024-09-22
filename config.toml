@@ -45,7 +45,7 @@ highlight_theme = "base16-ocean-dark"
 # The Kita theme style config.
 [extra]
 # Enable KaTex math formula support globally.
-math = false
+math = true
 # Enable mermaid support globally.
 mermaid = false
 # Enable comment support globally.
@@ -71,7 +71,7 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "./g1nj0L - coses de física i informàtica"
+name = "./g1nj0L aka Andreu :)"
 bio = "Un xaval que estudia física i podria ser el proper picador de codi professional assalariat dels seus companys doctorands"
 # The URL of avatar.
 avatar_url = "images/g1nj0L.jpg"
