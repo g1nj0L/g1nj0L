@@ -103,7 +103,7 @@ url = "$BASE_URL/arxiu"
 
 [[extra.menu]]
 name = "etiquetes"
-url = "$BASE_URL/etiquetes"
+url = "$BASE_URL/tags"
 
 [[extra.menu]]
 name = "sobre mi"
