@@ -94,19 +94,19 @@ url = "$BASE_URL/atom.xml"
 
 # The top menu.
 [[extra.menu]]
-name = "Projectes"
+name = "projectes"
 url = "$BASE_URL/projectes"
 
 [[extra.menu]]
-name = "Arxiu"
+name = "arxiu"
 url = "$BASE_URL/arxiu"
 
 [[extra.menu]]
-name = "Etiquetes"
+name = "etiquetes"
 url = "$BASE_URL/etiquetes"
 
 [[extra.menu]]
-name = "Informació"
+name = "informació"
 url = "$BASE_URL/informacio"
 
 # The page footer options.
