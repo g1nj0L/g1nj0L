@@ -2,8 +2,8 @@
 base_url = "https://g1nj0l.github.io/g1nj0L"
 
 # The site title and description; used in feeds by default.
-title = "Kita"
-description = "Kita is a clean, elegant and simple blog theme for Zola."
+title = "./g1nj0L"
+description = "Un xaval que estudia física i podria ser el proper picador de codi professional assalariat dels seus companys doctorands"
 
 # The default site author.
 author = "g1nj0L"
@@ -71,8 +71,8 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "Kita - Zola Theme"
-bio = "Kita is a clean, elegant and simple blog theme for Zola."
+name = "./g1nj0L - coses de física i informàtica"
+bio = "Un xaval que estudia física i podria ser el proper picador de codi professional assalariat dels seus companys doctorands"
 # The URL of avatar.
 avatar_url = "images/g1nj0L.jpg"
 # Invert color in dark mode.
@@ -82,11 +82,11 @@ avatar_invert = false
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
 [[extra.profile.social]]
 name = "github"
-url = "https://github.com/st1020/kita"
+url = "https://github.com/g1nj0L"
 
-[[extra.profile.social]]
-name = "twitter"
-url = "https://github.com/st1020/kita"
+# [[extra.profile.social]]
+# name = "twitter"
+# url = "https://github.com/st1020/kita"
 
 [[extra.profile.social]]
 name = "rss"
@@ -94,38 +94,38 @@ url = "$BASE_URL/atom.xml"
 
 # The top menu.
 [[extra.menu]]
-name = "Projects"
-url = "$BASE_URL/projects"
+name = "Projectes"
+url = "$BASE_URL/projectes"
 
 [[extra.menu]]
-name = "Archive"
-url = "$BASE_URL/archive"
+name = "Arxiu"
+url = "$BASE_URL/arxiu"
 
 [[extra.menu]]
-name = "Tags"
-url = "$BASE_URL/tags"
+name = "Etiquetes"
+url = "$BASE_URL/etiquetes"
 
 [[extra.menu]]
-name = "About"
-url = "$BASE_URL/about"
+name = "Informació"
+url = "$BASE_URL/informacio"
 
 # The page footer options.
 [extra.footer]
-since = 2020
-license = "CC BY-SA 4.0"
-license_url = "https://creativecommons.org/licenses/by-sa/4.0/deed"
+since = 2024
+license = "The Unilicense"
+license_url = "https://unlicense.org/"
 
 # The giscus comment options, only available when comment is enabled.
-[extra.giscus]
-repo = ""
-repo_id = ""
-category = ""
-category_id = ""
-mapping = "pathname"
-strict = 1
-reactions_enabled = 0
-emit_metadata = 0
-input_position = "top"
-theme = "light"
-lang = "en"
-loading = "lazy"
+# [extra.giscus]
+# repo = ""
+# repo_id = ""
+# category = ""
+# category_id = ""
+# mapping = "pathname"
+# strict = 1
+# reactions_enabled = 0
+# emit_metadata = 0
+# input_position = "top"
+# theme = "light"
+# lang = "en"
+# loading = "lazy"
