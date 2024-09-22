@@ -71,7 +71,7 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "./g1nj0L aka Andreu :)"
+name = "./g1nj0L"
 bio = "Un xaval que estudia física i podria ser el proper picador de codi professional assalariat dels seus companys doctorands"
 # The URL of avatar.
 avatar_url = "images/g1nj0L.jpg"
