@@ -4,7 +4,9 @@ Un estudiant de física entre tants, tractant d'acabar la carrera sense morir en
 
 # 📖 Interessos
 
-Com a qualsevol persona que haja sigut capaç de no abandonar la carrera, m'apassiona la física. Concretament, m'interessen els camps de la <ins>física teòrica</ins> relacionats amb la **quàntica** (sobretot òptica quàntica i teoria quàntica de camps, segons el que he pogut veure en la carrera), la **relativitat** i la **cosmologia** i, en menor mesura, l'**òptica**. A més a més, últimament estic descobrint amb gran interés el camp de la **informació quàntica** com l'àrea capaç d'aglutinar les meues principals inquietuds existents prèviament comentades i noves motivacions (teoria de la informació[^1], gravetat quàntica[^2][^3] i criptografia[^4], entre altres).
+Com a qualsevol persona que haja sigut capaç de no abandonar la carrera, m'apassiona la física. Concretament, m'interessen els camps de la <ins>física teòrica</ins> relacionats amb la **quàntica** (sobretot òptica quàntica i teoria quàntica de camps, segons el que he pogut veure en la carrera), la **relativitat** i la **cosmologia** i, en menor mesura, l'**òptica**.
+
+A més a més, últimament estic descobrint amb gran interés el camp de la **informació quàntica** com l'àrea capaç d'aglutinar les meues principals inquietuds existents prèviament comentades i noves motivacions (teoria de la informació[^1], gravetat quàntica[^2][^3] i criptografia[^4], entre altres).
 
 # 💻 Com he fet el web?
 
